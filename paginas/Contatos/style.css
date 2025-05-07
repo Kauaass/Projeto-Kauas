@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#caixa{
+    width: 360px;
+    height: 712px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#perfil img {
+    width: 240px;
+}
